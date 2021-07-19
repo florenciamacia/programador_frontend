@@ -1,8 +1,4 @@
 manzana
 banana
-mandarina
-naranja
 
-vino
-
-pan
+pan con sésamo
