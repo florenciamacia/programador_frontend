@@ -1,3 +1,8 @@
 manzana
 banana
 mandarina
+naranja
+
+vino
+
+pan
