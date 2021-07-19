@@ -1,4 +1,2 @@
-manzana
-banana
+﻿manzana
 
-pan con sésamo
